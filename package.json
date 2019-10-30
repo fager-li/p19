@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "html5-boilerplate": "^7.2.0",
+    "three.js": "^0.77.1"
+  },
+  "devDependencies": {
+    "sass": "^1.23.0"
+  }
+}
